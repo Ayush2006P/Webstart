@@ -1,2 +1,2 @@
 # Webstart
-here, I will be sharing my all websites which are created by me, and will be sharing with share others.
+here, I will be sharing my all websites. These websites are just for making me comfortable in web development.
